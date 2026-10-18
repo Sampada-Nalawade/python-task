@@ -1,0 +1,55 @@
+#1
+class Car:
+    brand = "Tata"
+    model = "Nexon"
+    rating = 4.8
+    fuel_type = "Electric"
+
+    start()
+    stop()
+    drift()
+    accelerate()
+
+#2
+class Book:
+    title = "Veronika Decides To Die"
+    author = "Paulo Coelho"
+    type = "Novel"
+
+    read()
+    write()
+
+#3
+class Laptop:
+       brand = "Dell"
+       model = "Inspiron 15 3530 Laptop"
+       model_year = 2025
+       color = "Carbon black"
+       screen_size = "15.6 inches"
+
+       shut_down()
+       restart()
+       sleep()
+
+#4
+class ATM:
+    bank_name = "SBI"
+    balance = 50000
+
+    cash_withdraw()
+    check_balance()
+    fund_transfer()
+    deposit()     
+
+#5
+class WashingMachine:
+    brand = "Whirlpool"
+    operation_type = "Fully automatic"
+    weight = "30 kg"
+    color = "grey"
+
+    water_filling()
+    draining()
+    rinsing()
+    spinning()
+    drying()
